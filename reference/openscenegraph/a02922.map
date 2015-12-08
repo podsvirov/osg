@@ -1,0 +1,15 @@
+<map id="osgParticle::Operator" name="osgParticle::Operator">
+<area shape="rect" id="node4" href="$a00001.html" title="An operator class that applies a constant acceleration to the particles. " alt="" coords="513,5,688,32"/>
+<area shape="rect" id="node5" href="$a00013.html" title="An operator class that applies a constant angular acceleration to the particles. " alt="" coords="517,57,685,98"/>
+<area shape="rect" id="node6" href="$a00014.html" title="A angular damping operator applies damping constant to particle&#39;s angular velocity. " alt="" coords="507,122,695,163"/>
+<area shape="rect" id="node7" href="$a00209.html" title="A damping operator applies damping constant to particle&#39;s velocity. " alt="" coords="503,188,698,215"/>
+<area shape="rect" id="node8" href="$a00241.html" title="A domain operator which accepts different domain shapes as the parameter. " alt="" coords="507,239,695,265"/>
+<area shape="rect" id="node11" href="$a00289.html" title="An explosion operator exerts force on each particle away from the explosion center. " alt="" coords="501,289,700,316"/>
+<area shape="rect" id="node12" href="$a00313.html" title="An operator that simulates the friction of a fluid. " alt="" coords="519,341,682,382"/>
+<area shape="rect" id="node13" href="$a00319.html" title="An operator that applies a constant force to the particles. " alt="" coords="512,407,689,433"/>
+<area shape="rect" id="node14" href="$a00586.html" title="An orbit operator forces particles in the orbit around a point. " alt="" coords="514,457,687,484"/>
+<area shape="rect" id="node2" href="$a00557.html" title="Base class/standard interface for objects which require IO support, cloning and reference counting..." alt="" coords="171,239,260,265"/>
+<area shape="rect" id="node3" href="$a00699.html" title="Base class for providing reference counted objects. " alt="" coords="5,239,123,265"/>
+<area shape="rect" id="node9" href="$a00076.html" title="A bounce operator can affect the particle&#39;s velocity to make it rebound. " alt="" coords="748,213,935,240"/>
+<area shape="rect" id="node10" href="$a00805.html" title="A sink operator kills particles if positions or velocities inside/outside the specified domain..." alt="" coords="757,264,926,291"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="osgAnimation::TemplateInterpolatorBase&lt; TYPE, KEY &gt;" name="osgAnimation::TemplateInterpolatorBase&lt; TYPE, KEY &gt;">
+<area shape="rect" id="node2" href="$a00882.html" title="osgAnimation::TemplateCubic\lBezierInterpolator\&lt; TYPE, KEY \&gt;" alt="" coords="288,5,496,47"/>
+<area shape="rect" id="node3" href="$a00888.html" title="osgAnimation::TemplateLinear\lInterpolator\&lt; TYPE, KEY \&gt;" alt="" coords="293,71,491,112"/>
+<area shape="rect" id="node4" href="$a00889.html" title="osgAnimation::TemplateLinear\lPackedInterpolator\&lt; TYPE, KEY \&gt;" alt="" coords="285,136,499,177"/>
+<area shape="rect" id="node5" href="$a00894.html" title="osgAnimation::TemplateSpherical\lLinearInterpolator\&lt; TYPE, KEY \&gt;" alt="" coords="284,201,500,243"/>
+<area shape="rect" id="node6" href="$a00895.html" title="osgAnimation::TemplateStep\lInterpolator\&lt; TYPE, KEY \&gt;" alt="" coords="297,267,487,308"/>
+</map>

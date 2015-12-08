@@ -1,0 +1,9 @@
+<map id="osgAnimation::Action" name="osgAnimation::Action">
+<area shape="rect" id="node4" href="$a00004.html" title="osgAnimation::ActionAnimation" alt="" coords="500,5,701,32"/>
+<area shape="rect" id="node5" href="$a00005.html" title="blend in from 0 to weight in duration " alt="" coords="507,56,694,83"/>
+<area shape="rect" id="node6" href="$a00006.html" title="blend out from weight to 0 in duration " alt="" coords="503,107,698,133"/>
+<area shape="rect" id="node7" href="$a00007.html" title="osgAnimation::ActionStrip\lAnimation" alt="" coords="515,158,686,199"/>
+<area shape="rect" id="node8" href="$a00943.html" title="osgAnimation::Timeline" alt="" coords="521,224,680,251"/>
+<area shape="rect" id="node2" href="$a00557.html" title="Base class/standard interface for objects which require IO support, cloning and reference counting..." alt="" coords="171,107,260,133"/>
+<area shape="rect" id="node3" href="$a00699.html" title="Base class for providing reference counted objects. " alt="" coords="5,107,123,133"/>
+</map>

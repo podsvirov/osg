@@ -1,0 +1,5 @@
+<map id="osgAnimation::RigComputeBoundingBoxCallback" name="osgAnimation::RigComputeBoundingBoxCallback">
+<area shape="rect" id="node2" href="$a00160.html" title="Callback to allow users to override the default computation of bounding volume. " alt="" coords="5,155,224,196"/>
+<area shape="rect" id="node3" href="$a00557.html" title="Base class/standard interface for objects which require IO support, cloning and reference counting..." alt="" coords="70,80,159,107"/>
+<area shape="rect" id="node4" href="$a00699.html" title="Base class for providing reference counted objects. " alt="" coords="56,5,173,32"/>
+</map>

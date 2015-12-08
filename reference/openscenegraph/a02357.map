@@ -1,0 +1,8 @@
+<map id="osgAnimation::AnimationManagerBase" name="osgAnimation::AnimationManagerBase">
+<area shape="rect" id="node6" href="$a00060.html" title="osgAnimation::BasicAnimation\lManager" alt="" coords="5,379,200,420"/>
+<area shape="rect" id="node7" href="$a00944.html" title="osgAnimation::TimelineAnimation\lManager" alt="" coords="225,379,439,420"/>
+<area shape="rect" id="node2" href="$a00550.html" title="Deprecated. " alt="" coords="153,229,281,256"/>
+<area shape="rect" id="node3" href="$a00097.html" title="osg::Callback" alt="" coords="168,155,267,181"/>
+<area shape="rect" id="node4" href="$a00557.html" title="Base class/standard interface for objects which require IO support, cloning and reference counting..." alt="" coords="173,80,262,107"/>
+<area shape="rect" id="node5" href="$a00699.html" title="Base class for providing reference counted objects. " alt="" coords="159,5,276,32"/>
+</map>

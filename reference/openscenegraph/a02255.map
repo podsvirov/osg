@@ -1,0 +1,6 @@
+<map id="osg::TextureBuffer" name="osg::TextureBuffer">
+<area shape="rect" id="node2" href="$a00919.html" title="Texture pure virtual base class that encapsulates OpenGL texture functionality common to the various ..." alt="" coords="23,229,119,256"/>
+<area shape="rect" id="node3" href="$a00834.html" title="Base class for state attributes. " alt="" coords="5,155,136,181"/>
+<area shape="rect" id="node4" href="$a00557.html" title="Base class/standard interface for objects which require IO support, cloning and reference counting..." alt="" coords="26,80,115,107"/>
+<area shape="rect" id="node5" href="$a00699.html" title="Base class for providing reference counted objects. " alt="" coords="12,5,129,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="osgShadow::OccluderGeometry" name="osgShadow::OccluderGeometry">
+<area shape="rect" id="node2" href="$a00246.html" title="Pure virtual base class for drawable geometry. " alt="" coords="53,229,160,256"/>
+<area shape="rect" id="node3" href="$a00548.html" title="Base class for all internal nodes in the scene graph. " alt="" coords="66,155,147,181"/>
+<area shape="rect" id="node4" href="$a00557.html" title="Base class/standard interface for objects which require IO support, cloning and reference counting..." alt="" coords="62,80,151,107"/>
+<area shape="rect" id="node5" href="$a00699.html" title="Base class for providing reference counted objects. " alt="" coords="48,5,165,32"/>
+</map>

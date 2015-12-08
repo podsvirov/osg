@@ -1,0 +1,7 @@
+<map id="osgParticle::ExplosionEffect" name="osgParticle::ExplosionEffect">
+<area shape="rect" id="node2" href="$a00610.html" title="osgParticle::ParticleEffect" alt="" coords="11,304,179,331"/>
+<area shape="rect" id="node3" href="$a00374.html" title="General group node which maintains a list of children. " alt="" coords="51,229,138,256"/>
+<area shape="rect" id="node4" href="$a00548.html" title="Base class for all internal nodes in the scene graph. " alt="" coords="54,155,135,181"/>
+<area shape="rect" id="node5" href="$a00557.html" title="Base class/standard interface for objects which require IO support, cloning and reference counting..." alt="" coords="50,80,139,107"/>
+<area shape="rect" id="node6" href="$a00699.html" title="Base class for providing reference counted objects. " alt="" coords="36,5,153,32"/>
+</map>

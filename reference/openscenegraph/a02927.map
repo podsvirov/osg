@@ -1,0 +1,11 @@
+<map id="osgParticle::ParticleEffect" name="osgParticle::ParticleEffect">
+<area shape="rect" id="node6" href="$a00287.html" title="osgParticle::ExplosionDebris\lEffect" alt="" coords="792,5,975,47"/>
+<area shape="rect" id="node7" href="$a00288.html" title="osgParticle::ExplosionEffect" alt="" coords="794,71,973,98"/>
+<area shape="rect" id="node8" href="$a00305.html" title="osgParticle::FireEffect" alt="" coords="809,122,957,149"/>
+<area shape="rect" id="node9" href="$a00809.html" title="osgParticle::SmokeEffect" alt="" coords="801,173,966,199"/>
+<area shape="rect" id="node10" href="$a00810.html" title="osgParticle::SmokeTrailEffect" alt="" coords="788,223,979,250"/>
+<area shape="rect" id="node2" href="$a00374.html" title="General group node which maintains a list of children. " alt="" coords="437,122,524,149"/>
+<area shape="rect" id="node3" href="$a00548.html" title="Base class for all internal nodes in the scene graph. " alt="" coords="308,122,389,149"/>
+<area shape="rect" id="node4" href="$a00557.html" title="Base class/standard interface for objects which require IO support, cloning and reference counting..." alt="" coords="171,122,260,149"/>
+<area shape="rect" id="node5" href="$a00699.html" title="Base class for providing reference counted objects. " alt="" coords="5,122,123,149"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="osgManipulator::TabPlaneTrackballDragger" name="osgManipulator::TabPlaneTrackballDragger">
+<area shape="rect" id="node2" href="$a00151.html" title="CompositeDragger allows to create complex draggers that are composed of a hierarchy of Draggers..." alt="" coords="5,528,184,569"/>
+<area shape="rect" id="node3" href="$a00243.html" title="Base class for draggers. " alt="" coords="12,453,177,480"/>
+<area shape="rect" id="node4" href="$a00518.html" title="MatrixTransform &#45; is a subclass of Transform which has an osg::Matrix which represents a 4x4 transfor..." alt="" coords="21,379,168,405"/>
+<area shape="rect" id="node5" href="$a00955.html" title="A Transform is a group node for which all children are transformed by a 4x4 matrix. " alt="" coords="39,304,151,331"/>
+<area shape="rect" id="node6" href="$a00374.html" title="General group node which maintains a list of children. " alt="" coords="51,229,138,256"/>
+<area shape="rect" id="node7" href="$a00548.html" title="Base class for all internal nodes in the scene graph. " alt="" coords="54,155,135,181"/>
+<area shape="rect" id="node8" href="$a00557.html" title="Base class/standard interface for objects which require IO support, cloning and reference counting..." alt="" coords="50,80,139,107"/>
+<area shape="rect" id="node9" href="$a00699.html" title="Base class for providing reference counted objects. " alt="" coords="36,5,153,32"/>
+</map>

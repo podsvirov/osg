@@ -1,0 +1,5 @@
+<map id="osgViewer::CompositeViewer" name="osgViewer::CompositeViewer">
+<area shape="rect" id="node2" href="$a01069.html" title="ViewerBase is the view base class that is inherited by both Viewer and CompositeViewer. " alt="" coords="22,155,181,181"/>
+<area shape="rect" id="node3" href="$a00557.html" title="Base class/standard interface for objects which require IO support, cloning and reference counting..." alt="" coords="57,80,146,107"/>
+<area shape="rect" id="node4" href="$a00699.html" title="Base class for providing reference counted objects. " alt="" coords="43,5,160,32"/>
+</map>

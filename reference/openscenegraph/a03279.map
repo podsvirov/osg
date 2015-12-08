@@ -1,0 +1,8 @@
+<map id="osgUtil::Intersector" name="osgUtil::Intersector">
+<area shape="rect" id="node3" href="$a00446.html" title="Concrete class for passing multiple intersectors through the scene graph. " alt="" coords="371,5,537,32"/>
+<area shape="rect" id="node4" href="$a00485.html" title="Concrete class for implementing line intersections with the scene graph. " alt="" coords="351,56,557,83"/>
+<area shape="rect" id="node5" href="$a00630.html" title="Concrete class for implementing polytope intersections with the scene graph. " alt="" coords="373,107,535,133"/>
+<area shape="rect" id="node6" href="$a00644.html" title="Concrete class for implementing polytope intersections with the scene graph. " alt="" coords="364,157,544,184"/>
+<area shape="rect" id="node7" href="$a00685.html" title="RayIntersector implements possibly&#45;infinite line intersections with the scene graph. " alt="" coords="377,208,531,235"/>
+<area shape="rect" id="node2" href="$a00699.html" title="Base class for providing reference counted objects. " alt="" coords="5,107,123,133"/>
+</map>

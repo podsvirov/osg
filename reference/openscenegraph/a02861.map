@@ -1,0 +1,9 @@
+<map id="osgManipulator::Translate2DDragger" name="osgManipulator::Translate2DDragger">
+<area shape="rect" id="node2" href="$a00243.html" title="Base class for draggers. " alt="" coords="13,453,178,480"/>
+<area shape="rect" id="node3" href="$a00518.html" title="MatrixTransform &#45; is a subclass of Transform which has an osg::Matrix which represents a 4x4 transfor..." alt="" coords="22,379,169,405"/>
+<area shape="rect" id="node4" href="$a00955.html" title="A Transform is a group node for which all children are transformed by a 4x4 matrix. " alt="" coords="39,304,151,331"/>
+<area shape="rect" id="node5" href="$a00374.html" title="General group node which maintains a list of children. " alt="" coords="52,229,139,256"/>
+<area shape="rect" id="node6" href="$a00548.html" title="Base class for all internal nodes in the scene graph. " alt="" coords="55,155,136,181"/>
+<area shape="rect" id="node7" href="$a00557.html" title="Base class/standard interface for objects which require IO support, cloning and reference counting..." alt="" coords="51,80,140,107"/>
+<area shape="rect" id="node8" href="$a00699.html" title="Base class for providing reference counted objects. " alt="" coords="37,5,154,32"/>
+</map>

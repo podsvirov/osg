@@ -1,0 +1,8 @@
+<map id="osgShadow::ProjectionShadowMap&lt; MinimalBoundsBaseClass, ShadowProjectionAlgorithmClass &gt;" name="osgShadow::ProjectionShadowMap&lt; MinimalBoundsBaseClass, ShadowProjectionAlgorithmClass &gt;">
+<area shape="rect" id="node3" href="$a00662.html" title="osgShadow::ProjectionShadow\lMap\&lt; MinimalDrawBoundsShadowMap,\l LightSpacePerspectiveShadowMapAlgorithm \&gt;" alt="" coords="699,15,989,71"/>
+<area shape="rect" id="node5" href="$a00662.html" title="osgShadow::ProjectionShadow\lMap\&lt; MinimalCullBoundsShadowMap,\l LightSpacePerspectiveShadowMapAlgorithm \&gt;" alt="" coords="699,95,989,151"/>
+<area shape="rect" id="node7" href="$a00662.html" title="osgShadow::ProjectionShadow\lMap\&lt; MinimalShadowMap, LightSpace\lPerspectiveShadowMapAlgorithm \&gt;" alt="" coords="723,175,965,231"/>
+<area shape="rect" id="node4" href="$a00477.html" title="osgShadow::LightSpacePerspective\lShadowMapDB" alt="" coords="1039,22,1264,63"/>
+<area shape="rect" id="node6" href="$a00476.html" title="osgShadow::LightSpacePerspective\lShadowMapCB" alt="" coords="1039,102,1264,143"/>
+<area shape="rect" id="node8" href="$a00478.html" title="osgShadow::LightSpacePerspective\lShadowMapVB" alt="" coords="1039,182,1264,223"/>
+</map>

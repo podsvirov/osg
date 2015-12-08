@@ -1,0 +1,9 @@
+<map id="osgAnimation::StackedTransformElement" name="osgAnimation::StackedTransformElement">
+<area shape="rect" id="node4" href="$a00823.html" title="osgAnimation::StackedMatrix\lElement" alt="" coords="585,5,774,47"/>
+<area shape="rect" id="node5" href="$a00824.html" title="osgAnimation::StackedQuaternion\lElement" alt="" coords="571,71,788,112"/>
+<area shape="rect" id="node6" href="$a00825.html" title="osgAnimation::StackedRotate\lAxisElement" alt="" coords="584,136,775,177"/>
+<area shape="rect" id="node7" href="$a00826.html" title="osgAnimation::StackedScale\lElement" alt="" coords="587,201,772,243"/>
+<area shape="rect" id="node8" href="$a00829.html" title="osgAnimation::StackedTranslate\lElement" alt="" coords="575,267,783,308"/>
+<area shape="rect" id="node2" href="$a00557.html" title="Base class/standard interface for objects which require IO support, cloning and reference counting..." alt="" coords="171,143,260,170"/>
+<area shape="rect" id="node3" href="$a00699.html" title="Base class for providing reference counted objects. " alt="" coords="5,143,123,170"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="osgSim::ScalarBar" name="osgSim::ScalarBar">
+<area shape="rect" id="node2" href="$a00329.html" title="A Geode is a &quot;geometry node&quot;, that is, a leaf node on the scene graph that can have &quot;renderable thing..." alt="" coords="26,304,114,331"/>
+<area shape="rect" id="node3" href="$a00374.html" title="General group node which maintains a list of children. " alt="" coords="27,229,113,256"/>
+<area shape="rect" id="node4" href="$a00548.html" title="Base class for all internal nodes in the scene graph. " alt="" coords="29,155,111,181"/>
+<area shape="rect" id="node5" href="$a00557.html" title="Base class/standard interface for objects which require IO support, cloning and reference counting..." alt="" coords="25,80,115,107"/>
+<area shape="rect" id="node6" href="$a00699.html" title="Base class for providing reference counted objects. " alt="" coords="11,5,129,32"/>
+</map>

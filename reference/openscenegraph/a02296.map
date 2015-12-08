@@ -1,0 +1,5 @@
+<map id="osg::UserDataContainer" name="osg::UserDataContainer">
+<area shape="rect" id="node4" href="$a00219.html" title="Internal structure for storing all user data. " alt="" coords="5,229,204,256"/>
+<area shape="rect" id="node2" href="$a00557.html" title="Base class/standard interface for objects which require IO support, cloning and reference counting..." alt="" coords="60,80,149,107"/>
+<area shape="rect" id="node3" href="$a00699.html" title="Base class for providing reference counted objects. " alt="" coords="46,5,163,32"/>
+</map>

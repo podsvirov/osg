@@ -1,0 +1,12 @@
+<map id="osgFX::Effect" name="osgFX::Effect">
+<area shape="rect" id="node6" href="$a00024.html" title="This single&#45;pass effect implements a sort of anisotropic lighting that replaces the standard OpenGL l..." alt="" coords="719,5,893,32"/>
+<area shape="rect" id="node7" href="$a00095.html" title="This effect makes surfaces appear bumpy. " alt="" coords="733,56,879,83"/>
+<area shape="rect" id="node8" href="$a00115.html" title="This effect implements a technique called &#39;Cel&#45;Shading&#39; to produce a cartoon&#45;style (non photorealisti..." alt="" coords="750,107,862,133"/>
+<area shape="rect" id="node9" href="$a00593.html" title="Outline effect. " alt="" coords="753,157,859,184"/>
+<area shape="rect" id="node10" href="$a00761.html" title="This is a two&#45;passes effect; the first pass renders the subgraph as usual while the second pass switc..." alt="" coords="755,208,857,235"/>
+<area shape="rect" id="node11" href="$a00816.html" title="This effect applies additive specular highlights at fragment level (instead of OpenGL&#39;s vertex&#45;level ..." alt="" coords="720,259,892,285"/>
+<area shape="rect" id="node2" href="$a00374.html" title="General group node which maintains a list of children. " alt="" coords="437,132,524,159"/>
+<area shape="rect" id="node3" href="$a00548.html" title="Base class for all internal nodes in the scene graph. " alt="" coords="308,132,389,159"/>
+<area shape="rect" id="node4" href="$a00557.html" title="Base class/standard interface for objects which require IO support, cloning and reference counting..." alt="" coords="171,132,260,159"/>
+<area shape="rect" id="node5" href="$a00699.html" title="Base class for providing reference counted objects. " alt="" coords="5,132,123,159"/>
+</map>

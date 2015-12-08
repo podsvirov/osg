@@ -1,0 +1,9 @@
+<map id="osgGA::GUIActionAdapter" name="osgGA::GUIActionAdapter">
+<area shape="rect" id="node2" href="$a00367.html" title="Base class for providing Windowing API agnostic access to creating and managing graphics window and e..." alt="" coords="221,129,408,156"/>
+<area shape="rect" id="node7" href="$a01054.html" title="View holds a single view on a scene, this view may be composed of one or more slave cameras..." alt="" coords="255,209,375,236"/>
+<area shape="rect" id="node3" href="$a00370.html" title="osgQt::GraphicsWindowQt" alt="" coords="474,5,647,32"/>
+<area shape="rect" id="node4" href="$a00368.html" title="osgViewer::GraphicsWindow\lEmbedded" alt="" coords="467,57,654,98"/>
+<area shape="rect" id="node5" href="$a00371.html" title="osgViewer::GraphicsWindow\lWin32" alt="" coords="467,122,654,163"/>
+<area shape="rect" id="node6" href="$a00372.html" title="osgViewer::GraphicsWindowX11" alt="" coords="456,188,665,215"/>
+<area shape="rect" id="node8" href="$a01068.html" title="Viewer holds a single view on to a single scene. " alt="" coords="495,239,627,265"/>
+</map>

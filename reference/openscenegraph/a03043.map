@@ -1,0 +1,8 @@
+<map id="osgShadow::StandardShadowMap::ViewData" name="osgShadow::StandardShadowMap::ViewData">
+<area shape="rect" id="node5" href="$a01064.html" title="osgShadow::MinimalShadow\lMap::ViewData" alt="" coords="905,39,1093,80"/>
+<area shape="rect" id="node2" href="$a01063.html" title="osgShadow::DebugShadowMap\l::ViewData" alt="" coords="409,39,613,80"/>
+<area shape="rect" id="node3" href="$a01058.html" title="Base container class for view dependent shadow resources. " alt="" coords="171,39,361,80"/>
+<area shape="rect" id="node4" href="$a00699.html" title="Base class for providing reference counted objects. " alt="" coords="5,46,123,73"/>
+<area shape="rect" id="node6" href="$a01061.html" title="osgShadow::MinimalCullBounds\lShadowMap::ViewData" alt="" coords="1146,5,1350,47"/>
+<area shape="rect" id="node7" href="$a01060.html" title="osgShadow::MinimalDrawBounds\lShadowMap::ViewData" alt="" coords="1141,71,1355,112"/>
+</map>

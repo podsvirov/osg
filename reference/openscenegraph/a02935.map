@@ -1,0 +1,11 @@
+<map id="osgParticle::Placer" name="osgParticle::Placer">
+<area shape="rect" id="node4" href="$a00118.html" title="An abstract placer base class for placers which need a center point. " alt="" coords="489,56,671,83"/>
+<area shape="rect" id="node8" href="$a00155.html" title="A composite particle placer which allows particles to be generated from a union of placers..." alt="" coords="485,107,675,133"/>
+<area shape="rect" id="node9" href="$a00541.html" title="A polyline&#45;shaped particle placer. " alt="" coords="494,158,666,199"/>
+<area shape="rect" id="node10" href="$a00769.html" title="A segment&#45;shaped particle placer. " alt="" coords="490,224,670,251"/>
+<area shape="rect" id="node2" href="$a00557.html" title="Base class/standard interface for objects which require IO support, cloning and reference counting..." alt="" coords="171,136,260,163"/>
+<area shape="rect" id="node3" href="$a00699.html" title="Base class for providing reference counted objects. " alt="" coords="5,136,123,163"/>
+<area shape="rect" id="node5" href="$a00081.html" title="A box&#45;shaped particle placer. " alt="" coords="731,5,881,32"/>
+<area shape="rect" id="node6" href="$a00637.html" title="A point&#45;shaped particle placer. " alt="" coords="727,56,885,83"/>
+<area shape="rect" id="node7" href="$a00768.html" title="A sector&#45;shaped particle placer. " alt="" coords="723,107,889,133"/>
+</map>

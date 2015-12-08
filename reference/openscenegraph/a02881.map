@@ -1,0 +1,8 @@
+<map id="osgParticle::CenteredPlacer" name="osgParticle::CenteredPlacer">
+<area shape="rect" id="node5" href="$a00081.html" title="A box&#45;shaped particle placer. " alt="" coords="5,304,155,331"/>
+<area shape="rect" id="node6" href="$a00637.html" title="A point&#45;shaped particle placer. " alt="" coords="179,304,336,331"/>
+<area shape="rect" id="node7" href="$a00768.html" title="A sector&#45;shaped particle placer. " alt="" coords="361,304,527,331"/>
+<area shape="rect" id="node2" href="$a00628.html" title="An abstract base class for implementing particle placers. " alt="" coords="193,155,322,181"/>
+<area shape="rect" id="node3" href="$a00557.html" title="Base class/standard interface for objects which require IO support, cloning and reference counting..." alt="" coords="213,80,302,107"/>
+<area shape="rect" id="node4" href="$a00699.html" title="Base class for providing reference counted objects. " alt="" coords="199,5,316,32"/>
+</map>

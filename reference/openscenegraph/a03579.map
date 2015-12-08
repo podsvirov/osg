@@ -1,0 +1,7 @@
+<map id="osgWidget::Browser" name="osgWidget::Browser">
+<area shape="rect" id="node2" href="$a00329.html" title="A Geode is a &quot;geometry node&quot;, that is, a leaf node on the scene graph that can have &quot;renderable thing..." alt="" coords="31,304,119,331"/>
+<area shape="rect" id="node3" href="$a00374.html" title="General group node which maintains a list of children. " alt="" coords="31,229,118,256"/>
+<area shape="rect" id="node4" href="$a00548.html" title="Base class for all internal nodes in the scene graph. " alt="" coords="34,155,115,181"/>
+<area shape="rect" id="node5" href="$a00557.html" title="Base class/standard interface for objects which require IO support, cloning and reference counting..." alt="" coords="30,80,119,107"/>
+<area shape="rect" id="node6" href="$a00699.html" title="Base class for providing reference counted objects. " alt="" coords="16,5,133,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="osgViewer::PixelBufferWin32" name="osgViewer::PixelBufferWin32">
+<area shape="rect" id="node2" href="$a00357.html" title="Base class for providing Windowing API agnostic access to creating and managing graphics context..." alt="" coords="5,162,149,189"/>
+<area shape="rect" id="node3" href="$a00557.html" title="Base class/standard interface for objects which require IO support, cloning and reference counting..." alt="" coords="33,80,122,107"/>
+<area shape="rect" id="node4" href="$a00699.html" title="Base class for providing reference counted objects. " alt="" coords="19,5,136,32"/>
+<area shape="rect" id="node5" href="$a00361.html" title="Class to encapsulate platform&#45;specific OpenGL context handle variables. " alt="" coords="174,155,354,196"/>
+</map>

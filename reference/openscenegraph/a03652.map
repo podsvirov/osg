@@ -1,0 +1,9 @@
+<map id="osgWidget::WindowManager" name="osgWidget::WindowManager">
+<area shape="rect" id="node2" href="$a00865.html" title="Switch is a Group node that allows switching between children. " alt="" coords="25,330,116,357"/>
+<area shape="rect" id="node3" href="$a00374.html" title="General group node which maintains a list of children. " alt="" coords="21,233,107,260"/>
+<area shape="rect" id="node4" href="$a00548.html" title="Base class for all internal nodes in the scene graph. " alt="" coords="23,157,105,184"/>
+<area shape="rect" id="node5" href="$a00557.html" title="Base class/standard interface for objects which require IO support, cloning and reference counting..." alt="" coords="19,81,109,108"/>
+<area shape="rect" id="node6" href="$a00699.html" title="Base class for providing reference counted objects. " alt="" coords="5,5,123,32"/>
+<area shape="rect" id="node7" href="$a00976.html" title="osgWidget::UIObjectParent\l\&lt; Window \&gt;" alt="" coords="147,323,325,364"/>
+<area shape="rect" id="node8" href="$a00976.html" title="osgWidget::UIObjectParent\&lt; T \&gt;" alt="" coords="131,233,343,260"/>
+</map>
